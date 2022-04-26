@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dipak Bansode
 - 👀 I’m interested in ... Gaming, Coding, Trading
 - 🌱 I’m currently doing ... MCA
-- 💞️ I’m looking to collaborate on ... Data Analysis
+- 💞️ I’m looking to collaborate on ... Data Analysis Projects
 - 📫 How to reach me ... bansode.deepak1999@gmail.com
 
 <!---
