@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DIPAK99B
+- 👋 Hi, I’m Dipak Bansode
 - 👀 I’m interested in ... Gaming, Coding, Trading
-- 🌱 I’m currently learning ... MCA & python data sci
-- 💞️ I’m looking to collaborate on ... Data sci 
-- 📫 How to reach me ... 
+- 🌱 I’m currently doing ... MCA
+- 💞️ I’m looking to collaborate on ... Data Analysis
+- 📫 How to reach me ... bansode.deepak1999@gmail.com
 
 <!---
 DIPAK99B/DIPAK99B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
